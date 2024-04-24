@@ -1,5 +1,23 @@
-### Hi there 👋
+### Hi, I'm Rafael Angulo but my developer name is Rafgui012  👋
 
+- 🔭 I’m currently working on (Office365Dekstop)[]
+- 🌱 I’m currently learning C#
+- ✍️ I have a blog at ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
+![](https://github-readme-stats.vercel.app/api?username=rafgui12)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafgui12)
+
+#### Top Repositories
+
+<a href="https://github.com/rafgui12/Office365WebDesktop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafgui12&repo=Office365WebDesktop" />
+</a>
+
+
+  
 <!--
 **rafgui12/rafgui12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
