@@ -9,13 +9,13 @@
 
 ### My Skills
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafgui12)
-![](https://github-readme-stats.vercel.app/api?username=rafgui12)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafgui12&theme=swift)
+![](https://github-readme-stats.vercel.app/api?username=rafgui12&theme=swift)
 
 #### Top Repositories
 
 <a href="https://github.com/rafgui12/Office365WebDesktop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafgui12&repo=Office365WebDesktop" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafgui12&repo=Office365WebDesktop&theme=swift" />
 </a>
 
 
