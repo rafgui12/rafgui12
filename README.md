@@ -1,9 +1,9 @@
 ### Hi, I'm Rafael Angulo but my developer name is Rafgui012  👋
 
-- 🔭 I’m currently working on (Office365Dekstop)[]
+- 🔭 I’m currently working on [Office365Dekstop](https://github.com/rafgui12/Office365WebDesktop)
 - 🌱 I’m currently learning C#
-- ✍️ I have a blog at ...
-- 📫 How to reach me: ...
+- ✍️ I have a [blog](https://blog.rafgui.com)
+- 📫 How to reach me: [https://rafgui.com/##contactModal](https://rafgui.com/##contactModal)
 - ⚡ Fun fact: ...
 - 😄 Pronouns: He/Him
 
