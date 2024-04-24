@@ -7,6 +7,8 @@
 - ⚡ Fun fact: ...
 - 😄 Pronouns: He/Him
 
+### My Skills
+
 ![](https://github-readme-stats.vercel.app/api?username=rafgui12)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafgui12)
 
