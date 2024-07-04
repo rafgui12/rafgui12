@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C#
 - ✍️ I have a [blog](https://blog.rafgui.com)
 - 📫 How to reach me: [https://rafgui.com/##contactModal](https://rafgui.com/##contactModal)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I ❤︎ Learn new things and ❤️‍🔥 is being developer
 - 😄 Pronouns: He/Him
 
 ### My Skills
